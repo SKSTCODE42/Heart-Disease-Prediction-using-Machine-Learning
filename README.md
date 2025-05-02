@@ -1,8 +1,3 @@
-# Heart-Disease-Prediction-using-Machine-Learning
-Here’s a GitHub repository description you can use for your project **"Early Diagnosis of Heart Disease in India using Predictive Machine Learning Techniques"**, based on your previous chats and your project scope:
-
----
-
 ## 📌 Project Title: Early Diagnosis of Heart Disease in India using Predictive Machine Learning Techniques
 
 ### 🧠 Overview
@@ -35,23 +30,5 @@ To assist healthcare professionals and patients by providing an accurate and eff
 
 Achieved high accuracy with ensemble models like Random Forest, demonstrating strong potential for clinical use in early risk assessment.
 
-### 📁 Repository Structure
 
-```
-📦 heart-disease-prediction/
-├── data/                 # Dataset files
-├── notebooks/            # Jupyter notebooks for EDA and model building
-├── models/               # Saved models (Pickle/Joblib)
-├── visuals/              # Plots and graphs
-├── main.py               # Main script
-├── requirements.txt      # Dependencies
-└── README.md             # Project documentation
-```
 
-### 👨‍🏫 Supervised by
-
-Prof. Debashish Das, ITER, Siksha ‘O’ Anusandhan University
-
----
-
-Would you like a `README.md` file version of this as well?
