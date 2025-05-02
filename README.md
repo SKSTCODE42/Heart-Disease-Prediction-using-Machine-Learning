@@ -10,16 +10,6 @@ This project aims to develop a machine learning model that predicts the likeliho
 - **Source:** [UCI Heart Disease Dataset](https://archive.ics.uci.edu/ml/datasets/Heart+Disease)
 - Contains medical data for heart disease prediction (age, cholesterol levels, blood pressure, etc.)
 
-## How to Run
-1. Clone the repository
-2. Install dependencies:
-```
-
-pip install -r requirements.txt
-
-```
-3. Run `main.py` or use the Jupyter notebooks for further exploration.
-
 ## Results
 The project evaluates different models, and the Random Forest and SVM algorithms show the best results in terms of prediction accuracy.
 
